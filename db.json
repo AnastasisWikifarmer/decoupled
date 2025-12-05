@@ -1,0 +1,18 @@
+{
+  "introbanner" : {
+    "img": "olives2-intro-min.webp",
+    "fallback_img": "olives2-intro-min.jpg",
+    "label": "Reliable sourcing made easy",
+    "text": "We aim to be the ideal end-to-end digital partner: from harvest and packing, to shipping and delivery, for a seamless full-service experience.",
+    "button": {
+        "label": "Source products"
+    },
+    "verified_title": "Verified by",
+    "verified_by_certificates": [
+        {
+            "image": "cert-new-organic-min.jpg",
+            "title": "Organic"
+        }
+    ]
+}
+}
