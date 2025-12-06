@@ -15,4 +15,191 @@
         }
     ]
 }
+    "why_choose_wikifarmer": {
+        "label": "Solutions to your biggest <span>challenges</span>",
+        "text": "We address the most critical pain points in agricultural supply chains with targeted solutions",
+        "items": [
+            {
+                "label": "Price volatility concerns",
+                "text": "Stop worrying about unpredictable pricing. Our continuous partnership with our large network of suppliers gives us a cutting edge on prices and product availability, driven by quality and market conditions - not by high margins.",
+                "img": "bussiness-white.svg"
+            },
+            {
+                "label": "Cash flow constraints",
+                "text": "Break free from cash flow limitations. The food market is dynamic and challenging - this is why we are financing your purchases, helping you secure your stock today and pay 30 days later.",
+                "img": "quality-controls-white.svg"
+            },
+            {
+                "label": "Complex logistics management",
+                "text": "Simplify your supply chain operations completely. We work with an extensive network of transportation and logistics partners to deliver excellence, reliability and minimized costs, maximizing your profitability and productivity.",
+                "img": "favourable-white.svg"
+            },
+            {
+                "label": "Quality uncertainty issues",
+                "text": "Eliminate quality headaches completely. Our platform and Quality Assurance team will ensure the quality of your order and will resolve your claims, if any, so you can focus on growing your business.",
+                "img": "track-white.svg"
+            }
+        ]
+    },
+    "renowned_for": {
+        "label": "Renowned for",
+        "slider_id": "renowned_for",
+        "items": [
+            {
+                "label": "Olive oil",
+                "img": "olive-oil-bulk.webp",
+                "url": "/market/en/olive-oil/"
+            },
+            {
+                "label": "IBC for industries",
+                "img": "IBC-olive-oil.webp",
+                "url": "/market/en/olive-oil/olive-oil-IBC-for-industries/"
+            },
+            {
+                "label": "Bottled for HoReCa",
+                "img": "bottled-for-horeca.webp",
+                "url": "/market/en/olive-oil/olive-oil-bottled-for-horeca/"
+            },
+            {
+                "label": "Bottled for retailers",
+                "img": "retail-olive-oil-new.webp",
+                "url": "/market/en/olive-oil/olive-oil-bottled-for-retailers/"
+            },
+            {
+                "label": "Vegetable oils",
+                "img": "cat-sunflower-min.webp",
+                "url": "/market/en/vegetable-oils/"
+            },
+            {
+                "label": "Olives",
+                "img": "cat-olives-min.webp",
+                "url": "/market/en/olives-olive-products/olives/"
+            },
+            {
+                "label": "Berries",
+                "img": "berries-category-min.webp",
+                "url": "/market/en/fruits/blackberries/"
+            },
+            {
+                "label": "Kiwis",
+                "img": "kiwi-category-min.webp",
+                "url": "/market/en/fruits/kiwis/"
+            },
+            {
+                "label": "Avocados",
+                "img": "avocado-category-min.webp",
+                "url": "/market/en/fruits/avocados/"
+            },
+            {
+                "label": "Mango",
+                "img": "mangos-category-min.webp",
+                "url": "/market/en/fruits/mango-en/"
+            }
+        ],
+        "button": {
+            "label": "View more"
+        }
+    },
+    "testimonials": {
+        "label": "Testimonials",
+        "slider_id": "testimonials",
+        "items": [
+            {
+                "img": "testimonial1-min.jpg",
+                "name": "Lucia",
+                "company": "Purchasing Director at Potato Chips Food Production Unit",
+                "text": "\"Wikifarmer has revolutionized our agricultural produce supply chain. Their user-friendly platform and dedicated team have significantly enhanced our efficiency and competitiveness.\""
+            },
+            {
+                "img": "testimonial2-min.jpg",
+                "name": "Felix",
+                "company": "Importer in Munich Fruit Market",
+                "text": "\"The platform ensures our product requirements and manages logistics smoothly. What distinguishes Wikifarmer from others is their consistent ability to find the best market prices, resulting in significant cost savings.\""
+            },
+            {
+                "img": "testimonial3-min.jpg",
+                "name": "Kostas",
+                "company": "Kiwi Producer in Imathia, Greece",
+                "text": "\"I have been able to sell my stock online, but I have also been able to connect with a vast network of B2B buyers. This has significantly expanded my reach, allowing me to export more and sell more.\""
+            }
+        ]
+    },
+    "sell_buy_on_wikifarmer": {
+        "label": "Your go-to online destination for agricultural products connecting  thousands of Suppliers with large Buyers",
+        "sellers": {
+            "label": "SUPPLIERS",
+            "title": "Sell on Wikifarmer",
+            "text_items": [
+                "Find business buyers from all across the globe for <a href=\"https://d1.wikifarmer.com/market/en/olive-oil/\" class=\"text-primary-500 font-semibold\">Olive Oil in Wholesale Prices</a> and more categories",
+                "Stop worrying about your cash flow. Get paid instantly, with safety and trust",
+                "Avoid large commissions and time-consuming processes",
+                "Expand your sales network, with a free additional distribution channel"
+            ],
+            "button": {
+                "label": "Start selling on Wikifarmer",
+                "url": "https://about.wikifarmer.com/en/howitworks",
+                "target": "_blank"
+            }
+        },
+        "buyers": {
+            "label": "BUYERS",
+            "title": "Source on Wikifarmer",
+            "text_items": [
+                "Source affordable quality products and secure your stock",
+                "Enjoy our 360 solutions, including logistics and transportation",
+                "Buy smarter and save time by negotiating with multiple suppliers",
+                "Ensure transparency and security of transactions"
+            ],
+            "button": {
+                "label": "Start sourcing on Wikifarmer",
+                "url": "https://about.wikifarmer.com/en/howitworks",
+                "target": "_blank"
+            }
+        }
+    },
+    "what_they_say_about_us": {
+        "label": "Wikifarmer in the media",
+        "items": [
+            {
+                "name": "Associated Press",
+                "url": "https://apnews.com/press-release/business-wire/technology-athens-venture-capital-6d2af06a900d4b11913882da7bb8c2c9",
+                "img": "ap-new-min.png"
+            },
+            {
+                "name": "FAO",
+                "url": "https://www.fao.org/e-agriculture/news/introducing-wikifarmer-wikipedia-farming",
+                "img": "fao-new-min.png"
+            },
+            {
+                "name": "Recursive",
+                "url": "https://therecursive.com/wikifarmer-digital-library-marketplace-farmers/",
+                "img": "recursive-new-min.png"
+            },
+            {
+                "name": "El Confidencial",
+                "url": "https://www.elconfidencial.com/empresas/2022-04-22/wikifarmer-agricultores-marketplace-bra_3410092/",
+                "img": "elconfidencial-new-min.png"
+            }
+        ],
+        "slider_id": "what_they_say"
+    },
+    "company_vision": {
+        "label": "A fair and transparent digital ecosystem",
+        "text": "Our vision is to create a fair, transparent, and rewarding environment for all people involved in Agriculture: bridging the gap between growers and buyers, avoiding unnecessary large commissions, and forcing transparency, accountability, security, and reliability to every transaction.",
+        "button": {
+            "label": "Learn more",
+            "url": "https://about.wikifarmer.com/en/market"
+        },
+        "img": "fair-section-min.webp",
+        "img_mobile": "fair-section-min-mobile.webp"
+    },
+    "get_started": {
+        "label": "Ready to start sourcing more efficiently?",
+        "text": "Enjoy all the benefits our digital platform can provide you with, for easier and smarter sourcing of agricultural products",
+        "button": {
+            "label": "Get started",
+            "url": "/market/en/profiles-add"
+        }
+    }
+
 }
